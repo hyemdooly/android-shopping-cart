@@ -1,1 +1,0 @@
-# android-shopping-cart
